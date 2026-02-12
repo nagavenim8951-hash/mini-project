@@ -18,27 +18,10 @@ The page is structured to demonstrate layout design, UI structuring, and respons
 ##  Sections Included
 
 *  Hero Section
-
-  - Strong headline and call-to-action buttons
-  - “See How It Works”
-  - “Get Started in Less Than Two Minutes”
-
 *  Customer Testimonials
-
-  - Displays customer opinions and feedback
-
 *  Pricing Section
-
-  - Clear pricing structure with plan comparison
-
 *  Frequently Asked Questions (FAQ)
-
-  - Common queries with structured layout
-
 *  Footer Section
-
-  - Contact information and navigation links
-
 ---
 
 ##  Tech Stack
